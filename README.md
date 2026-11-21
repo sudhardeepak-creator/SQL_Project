@@ -1,4 +1,4 @@
-# Sales Analysis: SQL Project (Lite+)
+# Sales Analysis: SQL Project
 
 A single-file MySQL 8 project on a small sales database (customers, products, orders) covering the SQL functions and concepts used most in analyst and developer work.
 
