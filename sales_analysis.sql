@@ -1,5 +1,5 @@
 -- =====================================================================
--- SQL Project: Sales Analysis (Lite+)   |   MySQL 8.0+
+-- SQL Project: Sales Analysis
 -- One file, run top to bottom.
 --  1 Setup            5 Numeric & conditional    9  Subqueries & CTEs
 --  2 Aggregates       6 NULL handling & casting  10 Set operations
